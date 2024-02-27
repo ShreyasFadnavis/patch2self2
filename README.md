@@ -1,5 +1,5 @@
 # Patch2Self2 (P2S2)
-Contains the submission code for NeurIPS '21
+Contains the submission code for CVPR 2024
 
 The codebase has been divided into 3 parts:
 - 1) models - contains the main P2S2 code.
