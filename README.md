@@ -1,3 +1,4 @@
+![CVPR_LogoSeattle_2024_Primary](https://github.com/ShreyasFadnavis/Patch2Self2/assets/17598557/39ceecb8-2c18-42bd-ad07-c5c58edcc018)
 # Patch2Self2 (P2S2)
 Contains the submission code for CVPR 2024
 
